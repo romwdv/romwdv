@@ -1,4 +1,4 @@
-# Hey, moi c'est Romain 👋
+# Hey 👋
 
 🚀 En plein **boot camp intensif de développement web fullstack** — à mi-chemin - les mains dans le code et la tête dans les commits.
 
