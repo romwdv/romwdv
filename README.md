@@ -31,11 +31,4 @@ Curieux, rigoureux, et motivé à apprendre vite — le boot camp le prouve chaq
 📬 N'hésite pas à me contacter !
 
 ---
-
-## 📊 Mes stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romwdv&show_icons=true&theme=default&hide_border=true)
-
----
-
 *Work in progress — comme moi.* 🌱
