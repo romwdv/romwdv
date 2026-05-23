@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, moi c'est Romain 👋
 
-<!--
-**romwdv/romwdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 En plein **boot camp intensif de développement web fullstack** — à mi-chemin - les mains dans le code et la tête dans les commits.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Ce que je fais ici
+
+Ce GitHub, c'est mon carnet de bord en temps réel.  
+Tu y trouveras des exercices pratiques, des projets en construction, et une progression visible semaine après semaine — du premier `Hello World` à des choses bien plus ambitieuses (promis).
+
+> ⚠️ **Heads up :** certains repos sont encore en chantier. C'est voulu — c'est de l'apprentissage, pas de la production. Le code d'aujourd'hui sera meilleur demain.
+
+---
+
+## 🛠️ Ce que j'apprends
+
+- **Front-end :** HTML, CSS, JavaScript
+- **Back-end :** Node.js, bases de données
+- **Outils :** Git, GitHub, et tout ce que le boot camp me lance dessus 😄
+
+*(Cette liste grandit chaque semaine)*
+
+---
+
+## 🔍 Ce que je cherche
+
+Je suis en recherche d'une **alternance en développement web / fullstack**.  
+Curieux, rigoureux, et motivé à apprendre vite — le boot camp le prouve chaque jour.
+
+📬 N'hésite pas à me contacter !
+
+---
+
+## 📊 Mes stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romwdv&show_icons=true&theme=default&hide_border=true)
+
+---
+
+*Work in progress — comme moi.* 🌱
