@@ -15,10 +15,10 @@ Tu y trouveras des exercices pratiques, des projets en construction, et une prog
 
 ## 🛠️ Ce que j'apprends
 
-- **Front-end :** HTML, CSS, JavaScript
-- **Back-end :** Node.js, bases de données
-- **Outils :** Git, GitHub, et tout ce que le boot camp me lance dessus 😄
-
+- **Front-end :** ✅ HTML ✅ CSS ✅ JavaScript 🕑 React.
+- **Back-end :** ✅ Node.js ✅ Express ✅ MongoDB.
+- **Outils :** ✅ Git ✅ GitHub (et tout ce que le boot camp me lance dessus 😄).
+ 
 *(Cette liste grandit chaque semaine)*
 
 ---
